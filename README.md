@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ismail
+- 👋 Hi, I’m Ismail
 - 👀 I’m interested in working with web technologies. I am a big fan of Laravel, Go and Vue.
-- 🌱 I’m currently learning application scalability and distributed computing.
-- 💞️ I’m looking to collaborate on web based open source projects
+- 🌱 I’m currently learning application scalability, aggressive performance optimization and distributed computing.
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 You can reach to me on LinkedIn. Here is my profile link: https://www.linkedin.com/in/m-ismail-63253847/
 
 <!---
